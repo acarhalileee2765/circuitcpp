@@ -1,0 +1,18 @@
+********circuit********
+Number of resistors: 5
+Resistor 1: 5 ohms
+Resistor 2: 6 ohms
+Resistor 3: 4 ohms
+Resistor 4: 3 ohms
+Resistor 5: 6 ohms
+Total parallel resistance: 1.11667 ohms
+Series Resistor 1: 2 ohms
+Series Resistor 2: 34 ohms
+Series Resistor 3: 6 ohms
+Series Resistor 4: 4 ohms
+Series Resistor 5: 32 ohms
+Series Resistor 6: 5 ohms
+Series Resistor 7: 2 ohms
+Total series resistance: 85 ohms
+Total resistance of the circuit: 86.1167 ohms
+Total current through the circuit: 7.87304 amperes
