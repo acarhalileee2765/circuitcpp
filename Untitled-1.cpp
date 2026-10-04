@@ -1,7 +1,8 @@
 #include <iostream>
 #include <fstream>
 #include <string>
-int n, a, t, s;
+int n, t, ;
+double a,s;
 // Function to calculate total parallel resistance
 double calculateparallelresistance(std::ofstream& circuit) {
     double totalResistance = 0;
@@ -13,7 +14,7 @@ double calculateparallelresistance(std::ofstream& circuit) {
         circuit.flush(); 
         totalResistance += 1.0 / a;
     }
-    return totalResistance;
+    return 1.0 / totalResistance;
 }
 // Function to calculate total series resistance
 double calculatetotalresistance(std::ofstream& circuit ) {
